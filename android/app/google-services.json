@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699920154828",
+    "project_id": "felcon-fitness",
+    "storage_bucket": "felcon-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699920154828:android:148a955c86cdd761c28269",
+        "android_client_info": {
+          "package_name": "com.example.falcon_fittness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQneelCQN3JIV2QWhZ30Q3LeknbUVX0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
